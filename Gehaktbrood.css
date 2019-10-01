@@ -1,0 +1,53 @@
+h1{
+	border-bottom:2px solid grey;
+	padding-bottom:31px;
+	font-size:36px;
+	line-height:36px ;
+}
+h2{
+	font-size:24px;
+	line-height:32px ;
+}
+div.Kleinetext{
+	font-size:20px;
+	line-height:26px;
+	color: #737373;
+}
+div.plaatje img{
+	width:500px;
+	margin-bottom:25px;
+
+}
+.Margin{
+	margin-left:400px;
+	margin-right:400px;
+}
+
+.Tip{
+	font-size:20px;
+	color: #262626;
+
+}
+.groenevakje{
+	border:0px solid #262626;
+	background-color:#def6ed;
+	color:#737373;
+	margin-bottom:50px;
+}
+a hover{
+
+}
+.menu{
+	border-top:2px solid #737373;
+	margin:none;
+	margin-top:25px;
+	background-color:#b3b3b3;
+	position:fixed;bottom:0;
+	position:fixed;left:0;
+	width:100%;
+	text-align:center;
+}
+a:hover{color: red}
+
+
+	
